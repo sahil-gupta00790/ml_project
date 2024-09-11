@@ -1,0 +1,1001 @@
+user_id,interests,past_courses
+U001,"ethical hacking,quantum computing,IoT,programming,cloud computing","C001,C004,C003"
+U002,"cybersecurity,networking,mobile development",C005
+U003,"augmented reality,algorithms,databases,cloud computing,AI","C001,C002,C004"
+U004,"databases,quantum computing","C004,C002,C003"
+U005,web development,"C003,C004,C001"
+U006,"web development,computer vision,algorithms,IoT","C005,C001,C004"
+U007,"quantum computing,databases,algorithms,natural language processing,augmented reality","C004,C005"
+U008,"blockchain,programming,mobile development,computer vision,ethical hacking","C004,C005"
+U009,"augmented reality,cloud computing","C003,C001"
+U010,"natural language processing,cloud computing","C004,C003,C001"
+U011,"web development,natural language processing,ethical hacking,quantum computing","C002,C001,C005"
+U012,IoT,"C001,C005"
+U013,"programming,web development,augmented reality",C001
+U014,"augmented reality,networking,algorithms,databases,natural language processing",C003
+U015,"algorithms,data science","C003,C005,C004"
+U016,"programming,quantum computing,virtual reality","C002,C001"
+U017,"quantum computing,mobile development,cloud computing",C005
+U018,"programming,ethical hacking,virtual reality,game development,natural language processing",C005
+U019,"game development,cybersecurity,networking,robotics","C001,C003"
+U020,quantum computing,"C001,C002"
+U021,computer vision,C001
+U022,"data science,programming","C003,C002"
+U023,"networking,natural language processing,robotics,virtual reality",C003
+U024,"natural language processing,web development","C004,C001"
+U025,web development,"C005,C002,C003"
+U026,"IoT,natural language processing,data science,networking",C002
+U027,"computer vision,cloud computing,mobile development,data science",C003
+U028,web development,"C004,C002,C005"
+U029,"quantum computing,augmented reality,cloud computing","C004,C002"
+U030,"virtual reality,data science,algorithms",C001
+U031,"data visualization,robotics,natural language processing,IoT,virtual reality","C002,C003,C005"
+U032,"cybersecurity,mobile development","C001,C002,C004"
+U033,"algorithms,virtual reality,natural language processing",C003
+U034,cloud computing,"C002,C003,C001"
+U035,ethical hacking,"C004,C001,C005"
+U036,AI,"C003,C002,C001"
+U037,networking,"C002,C005,C001"
+U038,quantum computing,C001
+U039,"blockchain,data science,virtual reality","C001,C003"
+U040,"quantum computing,AI,web development,blockchain","C002,C005"
+U041,"web development,mobile development,augmented reality,AI,robotics","C005,C003,C001"
+U042,"IoT,AI,mobile development,quantum computing","C005,C004,C001"
+U043,"quantum computing,blockchain,cybersecurity,web development",C004
+U044,"robotics,augmented reality,virtual reality",C005
+U045,"IoT,AI,databases",C003
+U046,"ethical hacking,web development,natural language processing","C005,C004"
+U047,"mobile development,databases","C004,C003,C001"
+U048,"programming,game development,quantum computing,natural language processing","C005,C001,C003"
+U049,"AI,cybersecurity",C005
+U050,"natural language processing,cybersecurity",C001
+U051,"data science,web development,mobile development,IoT,quantum computing","C001,C002,C003"
+U052,"game development,databases","C004,C001"
+U053,"robotics,natural language processing,programming,data visualization","C005,C003"
+U054,"AI,virtual reality,web development,game development,cloud computing","C005,C003,C004"
+U055,"programming,IoT,algorithms,ethical hacking,AI",C002
+U056,"robotics,ethical hacking",C001
+U057,ethical hacking,C004
+U058,AI,"C003,C002,C001"
+U059,"algorithms,data visualization,mobile development","C003,C004"
+U060,"programming,databases,networking","C001,C005,C004"
+U061,"data science,AI,algorithms,ethical hacking","C005,C004,C002"
+U062,"game development,algorithms,natural language processing","C001,C004"
+U063,web development,"C005,C002,C004"
+U064,"cloud computing,algorithms,data science",C004
+U065,"databases,data visualization,cybersecurity,networking",C005
+U066,"cloud computing,networking,mobile development",C003
+U067,"programming,computer vision,databases,web development","C003,C005,C002"
+U068,robotics,C005
+U069,web development,C002
+U070,"web development,game development,augmented reality,programming,networking","C001,C002,C003"
+U071,"blockchain,ethical hacking,IoT,cloud computing,robotics","C001,C005,C002"
+U072,"quantum computing,robotics,programming,ethical hacking",C005
+U073,"computer vision,data visualization,ethical hacking,IoT",C002
+U074,"algorithms,quantum computing","C001,C005,C003"
+U075,"IoT,cybersecurity,data science,robotics","C003,C004,C001"
+U076,natural language processing,"C005,C004"
+U077,"data visualization,algorithms,robotics,databases,cybersecurity",C005
+U078,"robotics,virtual reality","C004,C005,C002"
+U079,"augmented reality,algorithms,data science","C004,C002,C001"
+U080,"robotics,mobile development,game development","C001,C003,C004"
+U081,"augmented reality,IoT,data visualization,ethical hacking","C004,C001"
+U082,"computer vision,networking,databases,ethical hacking,mobile development","C003,C001,C004"
+U083,natural language processing,"C005,C004"
+U084,"web development,databases,augmented reality,computer vision,cloud computing",C001
+U085,"game development,blockchain,algorithms,web development","C003,C004"
+U086,IoT,"C002,C004,C001"
+U087,"data visualization,mobile development","C003,C002,C004"
+U088,"augmented reality,cloud computing,robotics,natural language processing","C003,C002,C004"
+U089,"databases,algorithms,data science,natural language processing","C004,C001,C002"
+U090,web development,"C005,C001,C002"
+U091,"AI,cloud computing,blockchain,web development,databases",C004
+U092,cybersecurity,C005
+U093,"databases,web development,robotics,quantum computing","C001,C004"
+U094,data science,"C005,C003"
+U095,"IoT,networking",C003
+U096,"web development,AI,cybersecurity","C002,C005"
+U097,"natural language processing,data visualization",C003
+U098,robotics,"C003,C002,C001"
+U099,mobile development,"C004,C005"
+U100,"data science,virtual reality,cybersecurity,AI","C002,C003,C001"
+U101,"augmented reality,networking",C003
+U102,"virtual reality,IoT,natural language processing,ethical hacking,programming","C002,C005"
+U103,quantum computing,"C004,C005"
+U104,"augmented reality,cybersecurity,data science,data visualization","C001,C003,C002"
+U105,"cybersecurity,game development,data science","C005,C001"
+U106,"virtual reality,mobile development,ethical hacking,computer vision",C002
+U107,"data science,web development,AI,IoT,data visualization","C004,C001"
+U108,"mobile development,algorithms,programming,ethical hacking","C003,C004,C002"
+U109,"IoT,data science,computer vision,databases",C003
+U110,networking,"C004,C003,C002"
+U111,"blockchain,algorithms","C003,C001"
+U112,robotics,C004
+U113,"data science,cloud computing,web development,IoT,computer vision","C005,C004,C003"
+U114,"virtual reality,programming","C005,C001,C004"
+U115,"cloud computing,programming",C003
+U116,"databases,natural language processing","C002,C004,C005"
+U117,"networking,cybersecurity,AI","C004,C001,C002"
+U118,computer vision,"C003,C004"
+U119,"augmented reality,IoT,blockchain","C001,C004"
+U120,"natural language processing,ethical hacking","C002,C003"
+U121,"databases,programming,cybersecurity",C004
+U122,"game development,IoT,programming,mobile development,networking",C002
+U123,"natural language processing,ethical hacking,IoT,augmented reality","C005,C002,C004"
+U124,"virtual reality,networking,algorithms,web development,ethical hacking","C003,C004,C002"
+U125,"natural language processing,computer vision","C002,C005"
+U126,"natural language processing,augmented reality,web development,virtual reality,quantum computing","C004,C005"
+U127,augmented reality,"C001,C005,C004"
+U128,"game development,computer vision","C001,C002"
+U129,game development,"C001,C002,C004"
+U130,"mobile development,virtual reality,augmented reality,algorithms,web development","C002,C003,C001"
+U131,augmented reality,"C005,C004"
+U132,virtual reality,"C001,C003"
+U133,"algorithms,data visualization,IoT,quantum computing","C002,C003,C004"
+U134,"augmented reality,web development","C005,C003"
+U135,"algorithms,cybersecurity,data science,quantum computing,virtual reality","C003,C004"
+U136,"data science,algorithms,blockchain,IoT","C004,C003,C001"
+U137,cybersecurity,C003
+U138,"data science,mobile development,blockchain,natural language processing","C002,C003,C001"
+U139,"computer vision,robotics,blockchain,game development,programming",C002
+U140,"programming,mobile development,web development,cybersecurity",C002
+U141,"programming,cloud computing",C003
+U142,"quantum computing,data science","C001,C003"
+U143,robotics,"C004,C003,C002"
+U144,"quantum computing,web development,cloud computing,databases,computer vision","C001,C005,C003"
+U145,"data science,networking,cloud computing,quantum computing,web development","C003,C001"
+U146,augmented reality,C001
+U147,"mobile development,programming,blockchain,networking,data science",C005
+U148,"blockchain,web development,quantum computing,networking,data visualization",C001
+U149,"web development,algorithms,IoT","C002,C003"
+U150,"databases,blockchain,data science,augmented reality",C003
+U151,"data visualization,computer vision,quantum computing,cybersecurity,data science","C003,C002"
+U152,"virtual reality,programming","C004,C001,C002"
+U153,"IoT,programming,natural language processing,data science","C003,C002,C005"
+U154,programming,C003
+U155,"IoT,algorithms,AI,natural language processing,augmented reality","C002,C001"
+U156,"ethical hacking,web development","C005,C003,C004"
+U157,"cloud computing,data visualization,IoT,robotics,mobile development","C003,C002"
+U158,robotics,C001
+U159,"cloud computing,cybersecurity","C001,C005,C003"
+U160,"databases,natural language processing,cybersecurity,blockchain","C002,C003"
+U161,"mobile development,augmented reality",C004
+U162,ethical hacking,C001
+U163,"cloud computing,augmented reality,algorithms",C001
+U164,"mobile development,databases,cloud computing,data science","C002,C001,C004"
+U165,data science,"C004,C002"
+U166,"augmented reality,programming","C003,C002,C005"
+U167,web development,C001
+U168,natural language processing,"C003,C004"
+U169,"networking,data science,augmented reality,blockchain","C005,C003"
+U170,"mobile development,augmented reality,natural language processing,ethical hacking,web development","C004,C005"
+U171,"data science,databases,networking,data visualization,virtual reality",C003
+U172,"ethical hacking,algorithms","C003,C005"
+U173,"cloud computing,data visualization",C005
+U174,"natural language processing,web development,data science,databases,robotics","C005,C003"
+U175,"blockchain,ethical hacking,web development,mobile development,algorithms","C002,C003"
+U176,"web development,quantum computing,mobile development,databases,algorithms","C005,C002,C004"
+U177,"ethical hacking,game development","C003,C001"
+U178,IoT,C003
+U179,"AI,algorithms,robotics,cloud computing","C002,C001"
+U180,"augmented reality,IoT,ethical hacking","C003,C005,C001"
+U181,cybersecurity,C004
+U182,"mobile development,AI","C001,C004"
+U183,"programming,networking,game development","C003,C002"
+U184,"natural language processing,quantum computing,programming,cloud computing,networking","C004,C005,C002"
+U185,"mobile development,data visualization,natural language processing,cloud computing",C004
+U186,"databases,algorithms,data science,augmented reality,AI","C004,C003,C002"
+U187,"networking,data visualization,blockchain,game development,algorithms",C004
+U188,"robotics,networking,mobile development,natural language processing","C005,C003,C004"
+U189,"algorithms,augmented reality,ethical hacking","C002,C001"
+U190,"AI,blockchain","C005,C002,C004"
+U191,"game development,natural language processing,AI","C002,C001"
+U192,"augmented reality,data science","C004,C001,C005"
+U193,"web development,databases,networking",C002
+U194,"robotics,programming,mobile development,virtual reality","C003,C005,C001"
+U195,"blockchain,augmented reality,web development,IoT,AI",C001
+U196,virtual reality,"C004,C003,C002"
+U197,"augmented reality,programming,AI,web development","C003,C005"
+U198,data visualization,"C001,C002,C005"
+U199,"cybersecurity,data science",C005
+U200,"AI,natural language processing,programming",C001
+U201,"programming,networking","C004,C001,C005"
+U202,"cloud computing,data science,algorithms,data visualization,robotics","C003,C005,C004"
+U203,"blockchain,augmented reality,data visualization,programming,IoT","C004,C001,C002"
+U204,"natural language processing,AI,quantum computing","C001,C004,C003"
+U205,virtual reality,"C003,C005,C002"
+U206,"programming,virtual reality,augmented reality,computer vision",C001
+U207,"data science,IoT",C005
+U208,"data visualization,databases,virtual reality","C003,C002,C004"
+U209,"data visualization,computer vision","C002,C004,C005"
+U210,"data science,data visualization","C004,C001,C003"
+U211,"data science,algorithms,augmented reality,web development","C004,C003,C005"
+U212,databases,"C001,C002,C004"
+U213,"mobile development,data science,robotics","C005,C003"
+U214,"cybersecurity,networking",C002
+U215,"quantum computing,data visualization,virtual reality","C004,C003,C001"
+U216,"web development,networking,data science,computer vision",C004
+U217,"augmented reality,mobile development","C002,C003"
+U218,"robotics,blockchain",C004
+U219,cybersecurity,"C004,C002,C001"
+U220,"data visualization,computer vision","C001,C003"
+U221,"ethical hacking,data visualization","C002,C001"
+U222,"IoT,blockchain,AI,quantum computing","C002,C004"
+U223,"data science,computer vision,cybersecurity,programming,game development","C002,C003"
+U224,"augmented reality,networking","C001,C002,C004"
+U225,"networking,AI",C003
+U226,"cybersecurity,augmented reality,natural language processing",C003
+U227,"cybersecurity,blockchain,data visualization","C005,C002"
+U228,"augmented reality,databases",C005
+U229,ethical hacking,C004
+U230,"augmented reality,networking,virtual reality,AI","C003,C004"
+U231,"AI,blockchain,programming,virtual reality,augmented reality","C003,C005"
+U232,"cloud computing,networking","C001,C003,C002"
+U233,"databases,AI","C001,C005,C004"
+U234,"programming,cloud computing","C001,C005"
+U235,"AI,programming,cloud computing",C001
+U236,natural language processing,"C002,C001"
+U237,"game development,mobile development,robotics,blockchain","C004,C002"
+U238,"ethical hacking,virtual reality,blockchain,web development",C005
+U239,"web development,databases,cybersecurity","C004,C001"
+U240,"IoT,virtual reality,natural language processing,networking",C003
+U241,"game development,AI,algorithms,virtual reality",C001
+U242,"IoT,augmented reality",C003
+U243,"virtual reality,natural language processing,cybersecurity,algorithms,quantum computing","C004,C002"
+U244,"web development,blockchain,databases,programming,algorithms",C004
+U245,"natural language processing,cloud computing,virtual reality,data visualization,quantum computing",C004
+U246,"AI,programming,mobile development,cloud computing,game development","C001,C005"
+U247,quantum computing,"C003,C001,C005"
+U248,web development,C003
+U249,"mobile development,cloud computing","C003,C005,C004"
+U250,"game development,data visualization,ethical hacking","C003,C004"
+U251,"databases,web development",C004
+U252,"natural language processing,algorithms,computer vision,quantum computing,programming","C004,C001,C002"
+U253,"cybersecurity,natural language processing,algorithms",C004
+U254,"robotics,quantum computing,networking,blockchain,virtual reality",C001
+U255,"game development,quantum computing,databases","C005,C001,C002"
+U256,data science,C005
+U257,IoT,C004
+U258,"cybersecurity,web development,AI","C001,C003,C004"
+U259,"IoT,databases,web development,AI","C002,C001"
+U260,"programming,AI",C002
+U261,algorithms,"C001,C004"
+U262,cloud computing,"C002,C003,C001"
+U263,"augmented reality,programming",C001
+U264,"blockchain,cloud computing",C003
+U265,"data visualization,mobile development,computer vision,robotics",C004
+U266,"quantum computing,algorithms","C005,C004"
+U267,"mobile development,game development,blockchain","C003,C005"
+U268,"data science,cybersecurity,mobile development,ethical hacking,natural language processing","C004,C002"
+U269,"programming,data science,algorithms,cloud computing,virtual reality","C002,C001,C003"
+U270,"web development,virtual reality,mobile development,IoT","C001,C002"
+U271,"cybersecurity,data visualization,programming,AI",C005
+U272,"IoT,augmented reality,natural language processing",C003
+U273,"programming,data visualization,blockchain,mobile development,cybersecurity",C005
+U274,virtual reality,"C004,C002,C001"
+U275,"blockchain,data visualization,IoT","C004,C001"
+U276,"web development,quantum computing,augmented reality,data visualization,natural language processing","C002,C003,C001"
+U277,"blockchain,computer vision,web development,data visualization,augmented reality","C002,C003"
+U278,"networking,game development,cloud computing","C004,C002,C001"
+U279,"natural language processing,cybersecurity",C001
+U280,"IoT,algorithms,natural language processing,cybersecurity,AI","C005,C004"
+U281,"networking,natural language processing,virtual reality","C005,C004,C001"
+U282,"cybersecurity,algorithms,robotics,blockchain,AI",C003
+U283,"game development,IoT,algorithms","C004,C002"
+U284,"blockchain,mobile development,AI,ethical hacking,databases","C001,C004,C003"
+U285,"programming,IoT,web development","C001,C005"
+U286,"algorithms,networking,IoT,blockchain,cloud computing","C004,C003"
+U287,"quantum computing,computer vision,IoT","C002,C005,C004"
+U288,computer vision,"C001,C004"
+U289,"virtual reality,computer vision,blockchain,game development,mobile development","C002,C003,C001"
+U290,robotics,"C001,C002,C003"
+U291,"ethical hacking,data science,robotics,AI","C001,C005"
+U292,"cybersecurity,IoT,AI","C003,C001"
+U293,natural language processing,"C003,C004,C002"
+U294,"algorithms,virtual reality,robotics",C001
+U295,"IoT,cloud computing,natural language processing","C003,C001"
+U296,"databases,natural language processing,web development,data visualization,augmented reality","C004,C001"
+U297,"computer vision,blockchain,AI","C005,C001,C003"
+U298,"virtual reality,blockchain,programming",C005
+U299,"AI,robotics",C003
+U300,"databases,virtual reality,computer vision,algorithms,mobile development","C004,C001,C005"
+U301,"robotics,virtual reality,programming","C005,C003,C001"
+U302,cybersecurity,C003
+U303,"programming,networking,computer vision,ethical hacking,blockchain","C002,C005"
+U304,"data visualization,cloud computing","C003,C005,C001"
+U305,"programming,robotics,cloud computing,mobile development,virtual reality","C002,C005,C004"
+U306,"blockchain,data science",C005
+U307,"databases,robotics,virtual reality","C004,C001,C003"
+U308,"cloud computing,networking,cybersecurity,robotics","C001,C005,C002"
+U309,"robotics,programming,AI,mobile development","C002,C004"
+U310,"cloud computing,augmented reality,AI,virtual reality",C001
+U311,"web development,mobile development,ethical hacking",C004
+U312,"virtual reality,natural language processing,algorithms,robotics","C004,C005,C003"
+U313,"data science,quantum computing,databases,data visualization,IoT","C004,C005"
+U314,"cloud computing,augmented reality,cybersecurity,networking,data science","C003,C002,C004"
+U315,quantum computing,C003
+U316,"blockchain,algorithms","C005,C004"
+U317,"cybersecurity,natural language processing",C005
+U318,"web development,natural language processing,programming",C001
+U319,"algorithms,ethical hacking,game development,computer vision,data science","C003,C005"
+U320,robotics,"C002,C003"
+U321,"cybersecurity,mobile development,cloud computing,programming,natural language processing",C005
+U322,"mobile development,augmented reality,data visualization",C005
+U323,ethical hacking,"C001,C002"
+U324,"robotics,data science,algorithms,IoT",C004
+U325,"programming,AI,web development,robotics","C004,C003,C001"
+U326,"mobile development,robotics,blockchain,databases,IoT","C002,C005,C004"
+U327,"quantum computing,AI,networking,programming","C002,C004,C005"
+U328,"networking,web development,augmented reality,virtual reality,mobile development","C002,C004"
+U329,"blockchain,natural language processing,quantum computing,web development,programming","C004,C002,C001"
+U330,"game development,web development",C004
+U331,"networking,ethical hacking,natural language processing,cybersecurity,IoT","C004,C005,C003"
+U332,programming,"C003,C004,C001"
+U333,"data visualization,web development","C004,C001,C005"
+U334,virtual reality,C004
+U335,"data visualization,mobile development,databases,web development","C005,C003,C002"
+U336,"web development,networking,natural language processing",C005
+U337,"programming,mobile development,natural language processing,cloud computing","C002,C001"
+U338,"natural language processing,networking,augmented reality","C001,C002,C004"
+U339,"data science,quantum computing,robotics","C004,C002,C003"
+U340,"AI,data visualization,algorithms,web development,cloud computing",C004
+U341,"computer vision,cloud computing,data science,AI,data visualization",C001
+U342,"robotics,virtual reality,cybersecurity","C003,C005,C001"
+U343,"mobile development,natural language processing","C003,C001,C005"
+U344,"AI,computer vision","C004,C002"
+U345,"data science,virtual reality,natural language processing,cloud computing",C003
+U346,"data science,virtual reality,algorithms,ethical hacking,cybersecurity",C003
+U347,"data visualization,data science,quantum computing,web development,robotics","C003,C001"
+U348,"data science,game development,data visualization,networking,databases","C002,C004,C005"
+U349,"computer vision,networking,databases,natural language processing","C002,C005"
+U350,"quantum computing,mobile development,databases","C005,C001,C002"
+U351,"blockchain,web development,augmented reality,data visualization","C001,C002,C005"
+U352,"web development,quantum computing,cloud computing,cybersecurity","C005,C001,C004"
+U353,robotics,"C001,C003,C004"
+U354,"robotics,data visualization","C004,C001,C005"
+U355,"natural language processing,algorithms,AI",C001
+U356,"data science,augmented reality,web development,quantum computing,IoT","C003,C004,C005"
+U357,databases,"C001,C005"
+U358,"mobile development,game development","C005,C003,C001"
+U359,"algorithms,quantum computing,mobile development,game development,computer vision","C001,C005,C004"
+U360,"databases,natural language processing,blockchain,algorithms,ethical hacking","C004,C005"
+U361,"blockchain,web development,mobile development","C005,C001"
+U362,"programming,algorithms,cloud computing","C005,C003"
+U363,"robotics,data science,cloud computing,blockchain","C004,C005"
+U364,"computer vision,IoT,programming","C005,C003,C002"
+U365,"robotics,computer vision,databases",C004
+U366,game development,"C003,C001,C005"
+U367,virtual reality,"C001,C003,C002"
+U368,"data science,algorithms,augmented reality,robotics,IoT","C002,C004"
+U369,"ethical hacking,data science",C003
+U370,AI,"C001,C004"
+U371,IoT,"C003,C004,C005"
+U372,"quantum computing,databases,ethical hacking,data science,IoT","C005,C004"
+U373,"computer vision,natural language processing,data visualization,augmented reality","C003,C001"
+U374,"natural language processing,data visualization,algorithms,augmented reality,game development",C004
+U375,"IoT,AI","C004,C002,C005"
+U376,"cloud computing,natural language processing,ethical hacking",C002
+U377,data visualization,"C004,C005,C002"
+U378,"IoT,mobile development,virtual reality,game development","C001,C002,C005"
+U379,"data visualization,web development,ethical hacking,game development",C002
+U380,"data science,data visualization",C001
+U381,algorithms,"C004,C005,C003"
+U382,virtual reality,"C005,C002,C003"
+U383,"algorithms,databases","C003,C005,C004"
+U384,augmented reality,C003
+U385,"data visualization,robotics,blockchain,web development,virtual reality",C003
+U386,"natural language processing,augmented reality,cybersecurity",C002
+U387,"mobile development,augmented reality,natural language processing,web development","C005,C003"
+U388,"augmented reality,robotics",C004
+U389,"computer vision,natural language processing,data visualization,web development,databases",C004
+U390,"natural language processing,web development,AI","C003,C005,C004"
+U391,"IoT,ethical hacking,cybersecurity,robotics,data science",C002
+U392,"programming,databases,augmented reality,mobile development,algorithms","C003,C005,C004"
+U393,"cybersecurity,mobile development,databases",C001
+U394,"algorithms,programming,AI,databases,augmented reality","C005,C001,C004"
+U395,web development,C003
+U396,"cloud computing,programming,virtual reality,robotics,cybersecurity","C004,C005"
+U397,blockchain,"C004,C003,C001"
+U398,"programming,computer vision,virtual reality,quantum computing,algorithms",C004
+U399,"databases,AI,robotics","C003,C004,C002"
+U400,"networking,blockchain,natural language processing,ethical hacking","C001,C002"
+U401,"augmented reality,databases,web development,computer vision","C004,C002,C005"
+U402,"cybersecurity,computer vision,quantum computing,robotics,data visualization","C005,C004"
+U403,"programming,ethical hacking",C005
+U404,"quantum computing,algorithms,blockchain,web development,data visualization","C003,C004,C001"
+U405,data science,"C001,C002,C003"
+U406,"augmented reality,IoT,natural language processing,networking","C003,C005,C002"
+U407,"natural language processing,databases,robotics,data visualization","C003,C001"
+U408,"game development,computer vision,networking,data visualization,data science","C002,C004"
+U409,"augmented reality,mobile development,data science,programming,web development",C001
+U410,AI,C002
+U411,"algorithms,databases,programming,AI,quantum computing",C001
+U412,"databases,AI,networking,mobile development,ethical hacking","C003,C002,C005"
+U413,virtual reality,C005
+U414,"cybersecurity,computer vision,game development","C005,C002"
+U415,"game development,blockchain,mobile development,programming,AI","C004,C005"
+U416,cloud computing,"C005,C004,C003"
+U417,"computer vision,programming,blockchain","C003,C002,C005"
+U418,"data science,quantum computing",C002
+U419,"data science,cloud computing,programming,blockchain,mobile development",C001
+U420,"data visualization,ethical hacking,IoT,blockchain","C002,C005"
+U421,"blockchain,algorithms,IoT,data science,computer vision","C004,C001,C005"
+U422,web development,C003
+U423,"databases,mobile development","C005,C002,C001"
+U424,"augmented reality,computer vision","C001,C005,C004"
+U425,data science,"C005,C001"
+U426,"augmented reality,cybersecurity,networking","C001,C002,C003"
+U427,"natural language processing,quantum computing,augmented reality,blockchain",C004
+U428,cybersecurity,"C001,C005"
+U429,"programming,AI,ethical hacking,game development,data science","C003,C005,C002"
+U430,"robotics,algorithms,blockchain,game development,web development",C003
+U431,"cybersecurity,mobile development","C001,C004"
+U432,"AI,networking","C003,C004,C002"
+U433,"databases,augmented reality,blockchain,networking,data science",C003
+U434,"algorithms,IoT",C002
+U435,"data visualization,natural language processing,ethical hacking","C004,C005,C001"
+U436,"blockchain,computer vision",C001
+U437,"augmented reality,ethical hacking,computer vision,mobile development",C004
+U438,quantum computing,"C002,C005,C003"
+U439,"data visualization,programming,cybersecurity",C001
+U440,"algorithms,blockchain","C003,C002,C001"
+U441,"robotics,virtual reality,mobile development,data visualization","C001,C003"
+U442,"blockchain,augmented reality,algorithms,databases","C002,C004"
+U443,"blockchain,AI,data visualization",C002
+U444,"blockchain,databases,natural language processing",C005
+U445,"networking,quantum computing","C001,C005"
+U446,"IoT,ethical hacking","C003,C004,C005"
+U447,"algorithms,game development,programming,quantum computing",C003
+U448,"virtual reality,ethical hacking,algorithms","C005,C004"
+U449,"databases,virtual reality,data science,AI,networking",C002
+U450,"quantum computing,data science",C005
+U451,"programming,blockchain,cloud computing","C004,C003,C001"
+U452,"virtual reality,data science,robotics","C001,C003"
+U453,"augmented reality,databases,data visualization,quantum computing","C004,C005"
+U454,"cloud computing,data visualization","C002,C001"
+U455,"web development,data visualization","C001,C003"
+U456,cybersecurity,"C003,C001"
+U457,"web development,blockchain,networking,cloud computing,data science",C001
+U458,"IoT,ethical hacking,AI,databases",C004
+U459,"IoT,algorithms,mobile development,databases,game development","C002,C005"
+U460,programming,"C002,C004,C003"
+U461,"robotics,ethical hacking,blockchain,cloud computing,IoT",C005
+U462,"blockchain,databases,web development","C001,C003,C002"
+U463,"ethical hacking,algorithms",C003
+U464,"robotics,web development,data science,ethical hacking","C004,C003,C001"
+U465,ethical hacking,"C001,C002,C005"
+U466,"robotics,databases",C004
+U467,"databases,blockchain",C001
+U468,"IoT,quantum computing,virtual reality,programming,data science","C001,C004"
+U469,"quantum computing,programming,game development,augmented reality,cybersecurity","C002,C005"
+U470,cybersecurity,"C003,C001"
+U471,virtual reality,C004
+U472,IoT,"C003,C005,C002"
+U473,"AI,networking",C002
+U474,"AI,game development,cybersecurity,programming,web development",C001
+U475,"web development,ethical hacking,augmented reality,mobile development,networking",C002
+U476,"IoT,robotics,ethical hacking","C003,C001"
+U477,"robotics,computer vision,algorithms,ethical hacking","C004,C005"
+U478,"data visualization,ethical hacking,robotics","C004,C005"
+U479,"mobile development,quantum computing,databases,blockchain,web development","C005,C003"
+U480,"data science,cloud computing,data visualization","C002,C004,C001"
+U481,"robotics,blockchain,augmented reality,data visualization","C005,C001,C003"
+U482,blockchain,"C001,C002"
+U483,"programming,data science","C002,C004,C003"
+U484,"programming,data science,robotics",C004
+U485,"quantum computing,game development",C005
+U486,"cloud computing,virtual reality,AI","C004,C002,C003"
+U487,"networking,augmented reality,IoT,natural language processing",C003
+U488,"robotics,quantum computing,data visualization","C003,C001,C002"
+U489,ethical hacking,"C002,C005,C003"
+U490,quantum computing,"C002,C001"
+U491,"web development,cloud computing","C004,C001"
+U492,"natural language processing,robotics,networking",C004
+U493,"augmented reality,ethical hacking,quantum computing,databases","C002,C005,C004"
+U494,"ethical hacking,quantum computing,mobile development","C002,C003,C001"
+U495,"databases,mobile development,ethical hacking,AI,augmented reality","C001,C005,C003"
+U496,"networking,augmented reality",C001
+U497,"blockchain,robotics,algorithms,web development","C004,C001,C002"
+U498,"programming,virtual reality,web development,networking,augmented reality",C002
+U499,"IoT,data visualization,programming","C002,C003"
+U500,"web development,programming",C003
+U501,"algorithms,AI","C002,C003,C004"
+U502,"programming,augmented reality,cybersecurity,mobile development,IoT","C001,C003"
+U503,"web development,databases,networking",C005
+U504,"data visualization,programming,computer vision,databases,game development","C001,C004,C005"
+U505,"augmented reality,databases,programming,data visualization,virtual reality","C001,C002"
+U506,"natural language processing,augmented reality,data science",C002
+U507,"quantum computing,ethical hacking",C002
+U508,"mobile development,AI,quantum computing,databases,natural language processing","C002,C001"
+U509,data science,"C004,C005,C001"
+U510,"game development,web development,algorithms,natural language processing",C003
+U511,blockchain,"C005,C004"
+U512,"game development,programming,mobile development",C003
+U513,"databases,web development,ethical hacking,networking","C004,C001,C005"
+U514,"cloud computing,game development,mobile development,data science,data visualization","C003,C002"
+U515,blockchain,"C005,C002,C003"
+U516,"databases,AI,cloud computing,virtual reality,data science",C004
+U517,"mobile development,cybersecurity,quantum computing,robotics,web development",C001
+U518,"game development,data visualization","C002,C004,C003"
+U519,cloud computing,"C004,C002"
+U520,game development,C003
+U521,"databases,data visualization,cloud computing,algorithms","C001,C002"
+U522,"IoT,AI",C004
+U523,"web development,IoT,data visualization,data science,ethical hacking","C001,C005"
+U524,"AI,augmented reality",C001
+U525,"ethical hacking,databases","C003,C001"
+U526,"databases,augmented reality,blockchain,algorithms,IoT",C005
+U527,"networking,robotics,virtual reality,cloud computing,augmented reality","C002,C003,C004"
+U528,"data science,natural language processing,robotics",C005
+U529,"cybersecurity,blockchain","C002,C004"
+U530,"cloud computing,data visualization,natural language processing",C002
+U531,"game development,natural language processing,computer vision,IoT,data science","C004,C003,C002"
+U532,"natural language processing,IoT,ethical hacking","C001,C002"
+U533,"data science,AI,databases,robotics",C001
+U534,"cybersecurity,augmented reality,game development,mobile development","C003,C002,C005"
+U535,computer vision,"C005,C003,C001"
+U536,"mobile development,natural language processing,data visualization,data science,blockchain","C004,C005"
+U537,"computer vision,web development,algorithms,cloud computing,IoT","C003,C001"
+U538,"natural language processing,game development,ethical hacking,databases,blockchain",C001
+U539,"cloud computing,computer vision,databases,mobile development,data science","C003,C004"
+U540,"augmented reality,computer vision,cybersecurity","C001,C005"
+U541,"programming,augmented reality,databases,blockchain,robotics","C004,C002"
+U542,"networking,virtual reality","C002,C005"
+U543,"programming,cloud computing,virtual reality,web development,data science",C001
+U544,blockchain,"C003,C002,C004"
+U545,"databases,robotics","C001,C003,C004"
+U546,"algorithms,mobile development,virtual reality,ethical hacking","C003,C002"
+U547,"computer vision,game development,AI,ethical hacking,cybersecurity",C002
+U548,blockchain,C002
+U549,"cloud computing,game development,augmented reality","C002,C004"
+U550,"blockchain,networking,mobile development,cybersecurity,AI","C004,C005"
+U551,"blockchain,data science,programming",C002
+U552,"game development,IoT,mobile development","C003,C002"
+U553,"algorithms,web development,blockchain,networking,natural language processing","C003,C002,C004"
+U554,"blockchain,computer vision","C005,C002"
+U555,"robotics,quantum computing,virtual reality,algorithms","C005,C002,C004"
+U556,"blockchain,data science,ethical hacking,algorithms,quantum computing","C002,C004,C003"
+U557,"algorithms,programming,blockchain,data science",C002
+U558,"mobile development,databases,data science","C003,C002,C004"
+U559,augmented reality,C004
+U560,"data visualization,data science","C002,C001,C004"
+U561,"IoT,data visualization,ethical hacking,blockchain","C003,C005"
+U562,"IoT,quantum computing","C005,C004,C001"
+U563,"robotics,web development",C003
+U564,"data visualization,game development,databases","C002,C003"
+U565,"data science,cybersecurity","C001,C005"
+U566,"quantum computing,web development,blockchain,natural language processing,game development",C003
+U567,"computer vision,programming,mobile development,web development",C004
+U568,"blockchain,cybersecurity,web development",C005
+U569,"virtual reality,networking,blockchain,quantum computing,data visualization","C005,C003,C002"
+U570,AI,C004
+U571,quantum computing,"C001,C004"
+U572,algorithms,"C003,C002"
+U573,"blockchain,algorithms",C001
+U574,"networking,data visualization,web development,blockchain,computer vision","C005,C001"
+U575,"cybersecurity,ethical hacking","C001,C003,C004"
+U576,"databases,programming,cybersecurity","C002,C005"
+U577,"cloud computing,programming,networking",C002
+U578,"programming,blockchain","C005,C002,C001"
+U579,"programming,algorithms,data science,computer vision",C003
+U580,"computer vision,natural language processing,augmented reality,web development,game development","C001,C002,C005"
+U581,"blockchain,programming,algorithms,quantum computing,data science",C003
+U582,"data science,computer vision",C003
+U583,"networking,quantum computing","C002,C005,C003"
+U584,"mobile development,AI,computer vision,IoT","C001,C004"
+U585,"mobile development,databases,data science,game development",C004
+U586,AI,C002
+U587,"data visualization,ethical hacking",C004
+U588,"AI,data science,quantum computing,cybersecurity,computer vision","C002,C004,C001"
+U589,virtual reality,"C001,C003"
+U590,"data science,computer vision,ethical hacking,algorithms",C001
+U591,game development,"C002,C005,C003"
+U592,"cloud computing,data visualization",C005
+U593,web development,"C002,C003,C001"
+U594,ethical hacking,"C002,C001,C004"
+U595,"game development,ethical hacking,programming,quantum computing","C005,C001,C002"
+U596,"data science,blockchain","C004,C002,C005"
+U597,"cloud computing,data visualization,mobile development,virtual reality","C005,C001,C002"
+U598,"programming,databases,IoT","C002,C001"
+U599,"blockchain,quantum computing",C002
+U600,"ethical hacking,IoT,virtual reality,cloud computing","C005,C002,C003"
+U601,"IoT,augmented reality,AI",C005
+U602,"mobile development,IoT,databases,web development","C005,C001,C004"
+U603,game development,"C001,C004,C005"
+U604,"virtual reality,cloud computing,programming,computer vision,robotics","C003,C002"
+U605,"cybersecurity,virtual reality,IoT,quantum computing","C002,C004,C001"
+U606,"augmented reality,programming,natural language processing,game development","C002,C004"
+U607,"data visualization,augmented reality",C001
+U608,"blockchain,programming,quantum computing,virtual reality,AI","C003,C001"
+U609,networking,C004
+U610,"networking,cybersecurity,IoT","C003,C001"
+U611,"virtual reality,ethical hacking,programming","C003,C005"
+U612,quantum computing,"C003,C002"
+U613,"data science,databases",C004
+U614,"data science,databases,natural language processing,mobile development",C003
+U615,programming,"C003,C004,C005"
+U616,"cloud computing,algorithms","C003,C004"
+U617,virtual reality,"C001,C005,C003"
+U618,"virtual reality,databases,programming,cloud computing,data visualization","C004,C003,C002"
+U619,"virtual reality,blockchain,cloud computing,programming",C001
+U620,"IoT,virtual reality,game development,programming,databases","C005,C004"
+U621,"robotics,IoT,data visualization",C005
+U622,"cybersecurity,computer vision,databases","C003,C005"
+U623,"web development,cloud computing,programming","C002,C004"
+U624,"data science,cloud computing","C002,C005,C001"
+U625,cybersecurity,C002
+U626,"networking,cybersecurity,augmented reality,data science,quantum computing",C004
+U627,"databases,natural language processing,ethical hacking,robotics","C004,C005"
+U628,"cloud computing,mobile development,algorithms,virtual reality","C002,C001"
+U629,"cybersecurity,quantum computing,IoT,augmented reality","C004,C001"
+U630,"computer vision,mobile development,natural language processing","C005,C004"
+U631,mobile development,"C002,C005,C001"
+U632,"virtual reality,programming","C001,C005,C004"
+U633,"databases,cloud computing","C004,C002,C005"
+U634,"data visualization,virtual reality",C002
+U635,"virtual reality,ethical hacking,AI,programming,networking","C002,C005,C003"
+U636,augmented reality,"C001,C003"
+U637,cybersecurity,C001
+U638,ethical hacking,C003
+U639,web development,"C004,C003"
+U640,"databases,algorithms,computer vision,AI,cybersecurity","C004,C005"
+U641,"ethical hacking,cloud computing,IoT,data science,networking","C002,C001"
+U642,programming,"C001,C004"
+U643,"web development,algorithms,cybersecurity,natural language processing","C001,C005"
+U644,computer vision,"C005,C003,C002"
+U645,"game development,virtual reality,networking,cloud computing,robotics","C002,C005"
+U646,"virtual reality,mobile development,computer vision","C001,C003,C002"
+U647,"quantum computing,game development,programming,ethical hacking",C004
+U648,"programming,AI,quantum computing,mobile development,networking",C003
+U649,"data visualization,computer vision,data science,ethical hacking,databases","C004,C005"
+U650,"virtual reality,mobile development",C004
+U651,"computer vision,cybersecurity,web development,game development,ethical hacking","C002,C001"
+U652,blockchain,"C003,C002"
+U653,"game development,blockchain,algorithms,programming,cloud computing",C004
+U654,"algorithms,quantum computing,web development","C003,C001"
+U655,"databases,cloud computing,data visualization,algorithms",C002
+U656,"data science,AI,game development","C005,C001"
+U657,networking,"C002,C001"
+U658,"computer vision,databases",C002
+U659,"quantum computing,algorithms,IoT,virtual reality","C002,C005"
+U660,"data visualization,augmented reality,game development,networking","C001,C005"
+U661,"cloud computing,cybersecurity,data science,robotics","C005,C002"
+U662,"IoT,computer vision",C005
+U663,ethical hacking,C001
+U664,"data visualization,ethical hacking,augmented reality,programming,cybersecurity",C002
+U665,"web development,cloud computing,networking","C003,C004"
+U666,computer vision,C001
+U667,"data visualization,augmented reality,algorithms,virtual reality",C005
+U668,"virtual reality,databases,blockchain","C001,C004"
+U669,"databases,cybersecurity,cloud computing,data visualization","C003,C004"
+U670,ethical hacking,C005
+U671,"mobile development,databases,augmented reality",C002
+U672,"web development,augmented reality","C002,C003,C001"
+U673,"robotics,quantum computing,computer vision",C002
+U674,"virtual reality,IoT","C005,C004,C003"
+U675,"web development,cybersecurity,programming,mobile development,algorithms","C003,C002"
+U676,"game development,data visualization,mobile development,programming",C003
+U677,"computer vision,algorithms,augmented reality,AI","C004,C005,C001"
+U678,"augmented reality,virtual reality","C001,C004"
+U679,"robotics,game development,augmented reality,data science","C004,C001,C002"
+U680,"natural language processing,programming,IoT",C004
+U681,"cloud computing,AI,quantum computing,mobile development","C005,C004"
+U682,"databases,IoT","C001,C005"
+U683,"robotics,programming","C004,C001,C005"
+U684,"blockchain,natural language processing","C005,C004,C003"
+U685,"databases,virtual reality,quantum computing,programming,computer vision","C003,C004,C001"
+U686,"game development,blockchain,augmented reality,ethical hacking","C003,C005,C002"
+U687,"blockchain,natural language processing,mobile development,game development,computer vision",C001
+U688,"game development,data science,cybersecurity,robotics,cloud computing","C003,C004"
+U689,"quantum computing,web development,natural language processing","C002,C004,C003"
+U690,"IoT,data science,ethical hacking,mobile development,robotics","C004,C003"
+U691,"blockchain,computer vision,algorithms,AI,networking",C003
+U692,"game development,data visualization,cloud computing,programming",C004
+U693,computer vision,"C001,C005,C004"
+U694,"programming,quantum computing,natural language processing,algorithms,cloud computing","C001,C005"
+U695,"robotics,cloud computing,quantum computing,game development","C001,C005"
+U696,"cybersecurity,virtual reality",C004
+U697,"quantum computing,databases,game development,IoT,robotics",C002
+U698,"ethical hacking,game development,data visualization,quantum computing","C005,C002"
+U699,"augmented reality,quantum computing","C004,C001"
+U700,cybersecurity,"C002,C004,C003"
+U701,algorithms,C005
+U702,"augmented reality,computer vision","C002,C003"
+U703,"data science,natural language processing,cloud computing,computer vision",C002
+U704,databases,"C004,C002,C003"
+U705,"data visualization,mobile development","C002,C005"
+U706,"virtual reality,data science,ethical hacking","C003,C002,C004"
+U707,"programming,blockchain",C001
+U708,"blockchain,game development,programming,cloud computing","C005,C004"
+U709,"web development,ethical hacking","C003,C001"
+U710,"virtual reality,ethical hacking,AI,data visualization,web development","C004,C001,C003"
+U711,"augmented reality,game development,quantum computing,web development,data visualization","C002,C003,C004"
+U712,"computer vision,cybersecurity,IoT","C004,C002"
+U713,"blockchain,databases,networking,IoT","C003,C005"
+U714,cybersecurity,"C005,C002,C003"
+U715,"quantum computing,IoT,virtual reality,game development",C001
+U716,"AI,data visualization","C002,C001,C003"
+U717,"virtual reality,quantum computing","C005,C004,C001"
+U718,"natural language processing,web development,cybersecurity,robotics","C004,C002,C001"
+U719,"IoT,natural language processing,AI,cloud computing,robotics","C004,C001,C003"
+U720,cybersecurity,"C005,C002,C003"
+U721,"cloud computing,networking","C004,C002,C005"
+U722,networking,"C004,C005"
+U723,"quantum computing,databases,IoT","C001,C004,C003"
+U724,virtual reality,"C003,C001,C004"
+U725,"networking,virtual reality","C004,C002,C005"
+U726,"algorithms,AI,virtual reality",C004
+U727,"IoT,ethical hacking,web development,blockchain,computer vision","C002,C005"
+U728,data science,C003
+U729,augmented reality,C001
+U730,"algorithms,programming","C001,C003"
+U731,"cloud computing,computer vision,blockchain,augmented reality","C002,C003,C001"
+U732,"virtual reality,data visualization,AI,IoT,cloud computing",C005
+U733,"AI,blockchain","C004,C001,C005"
+U734,"programming,AI,networking,data science","C001,C003"
+U735,"mobile development,blockchain,algorithms,robotics","C003,C002,C004"
+U736,"algorithms,cloud computing","C003,C001"
+U737,"cloud computing,AI,programming","C001,C002,C003"
+U738,"cloud computing,cybersecurity","C003,C002,C001"
+U739,"IoT,cybersecurity,data science,quantum computing","C001,C005,C004"
+U740,"robotics,programming,blockchain,natural language processing,web development",C002
+U741,"quantum computing,mobile development,algorithms,game development","C002,C004"
+U742,"networking,cybersecurity",C002
+U743,algorithms,C003
+U744,"virtual reality,web development,robotics","C005,C004,C003"
+U745,AI,C004
+U746,"game development,AI,networking,blockchain","C004,C003,C005"
+U747,"natural language processing,web development,computer vision,data visualization,ethical hacking","C004,C001,C005"
+U748,IoT,C002
+U749,"networking,ethical hacking","C003,C005"
+U750,"blockchain,computer vision,data visualization,ethical hacking","C004,C001,C003"
+U751,"networking,blockchain","C001,C002,C004"
+U752,"game development,natural language processing,web development,computer vision,ethical hacking",C002
+U753,"quantum computing,augmented reality,ethical hacking,cybersecurity,data science",C002
+U754,IoT,C001
+U755,"data visualization,IoT","C005,C004"
+U756,"data science,natural language processing,web development","C002,C001,C005"
+U757,"data visualization,web development,networking","C001,C004,C002"
+U758,"databases,virtual reality,AI,mobile development,ethical hacking","C001,C002"
+U759,"algorithms,cloud computing,data science,programming",C002
+U760,"networking,programming,IoT,robotics,game development","C005,C001,C003"
+U761,"natural language processing,mobile development,IoT,algorithms",C005
+U762,"data science,blockchain,quantum computing,algorithms","C002,C003,C001"
+U763,"algorithms,programming,web development","C002,C004,C005"
+U764,databases,C002
+U765,"robotics,game development,programming,ethical hacking","C002,C003"
+U766,"game development,computer vision,algorithms,robotics,cybersecurity","C005,C002"
+U767,"virtual reality,ethical hacking,networking,IoT,cloud computing","C001,C003"
+U768,"mobile development,web development,programming,data science,natural language processing","C001,C004,C002"
+U769,"blockchain,databases,natural language processing,ethical hacking,virtual reality","C004,C001,C005"
+U770,"natural language processing,computer vision","C005,C002,C004"
+U771,"computer vision,robotics,ethical hacking,programming,natural language processing","C005,C002,C004"
+U772,"IoT,data visualization,natural language processing,blockchain",C003
+U773,"robotics,computer vision",C001
+U774,blockchain,"C001,C003"
+U775,"web development,AI","C001,C003,C002"
+U776,"natural language processing,virtual reality,AI","C005,C002"
+U777,"AI,game development,networking","C004,C001,C003"
+U778,"web development,AI,data visualization,game development",C004
+U779,"ethical hacking,algorithms,databases,cybersecurity",C003
+U780,"game development,ethical hacking,computer vision,mobile development",C004
+U781,"programming,game development","C003,C005,C004"
+U782,"game development,cybersecurity,virtual reality",C004
+U783,"mobile development,IoT,ethical hacking,algorithms,web development","C005,C001"
+U784,"augmented reality,IoT,blockchain,robotics,virtual reality","C003,C002,C004"
+U785,ethical hacking,C002
+U786,"programming,blockchain,networking","C002,C004,C005"
+U787,"computer vision,data science,quantum computing,game development,programming",C001
+U788,"natural language processing,web development,algorithms",C005
+U789,"web development,cybersecurity,IoT,natural language processing",C003
+U790,augmented reality,C001
+U791,"computer vision,data science,databases",C001
+U792,"ethical hacking,augmented reality","C005,C003"
+U793,"networking,AI,robotics","C002,C001,C003"
+U794,"blockchain,cybersecurity,programming","C002,C005"
+U795,"IoT,cloud computing",C005
+U796,"cybersecurity,AI,robotics,IoT,data visualization",C002
+U797,"virtual reality,cybersecurity,programming","C005,C004"
+U798,cybersecurity,C005
+U799,"programming,game development,augmented reality","C002,C004,C001"
+U800,"cybersecurity,robotics,ethical hacking,cloud computing","C004,C002,C003"
+U801,"data visualization,data science,networking,natural language processing",C003
+U802,"IoT,cybersecurity",C004
+U803,"ethical hacking,web development,data visualization,algorithms",C001
+U804,"quantum computing,programming,virtual reality,robotics",C005
+U805,"augmented reality,robotics,mobile development,AI","C002,C001,C003"
+U806,"data science,AI,data visualization,game development,robotics","C005,C001"
+U807,"web development,virtual reality,programming,algorithms","C003,C004,C002"
+U808,"programming,algorithms,databases,game development",C004
+U809,AI,"C004,C005"
+U810,"data science,augmented reality,blockchain,ethical hacking","C003,C005"
+U811,"blockchain,virtual reality",C001
+U812,"networking,web development,cloud computing,augmented reality",C004
+U813,game development,C003
+U814,"cybersecurity,computer vision","C004,C003"
+U815,"AI,networking,algorithms","C003,C001"
+U816,cloud computing,"C004,C001,C005"
+U817,"virtual reality,data science,blockchain,augmented reality,algorithms","C001,C004,C003"
+U818,"data visualization,AI,game development,IoT,computer vision",C005
+U819,"quantum computing,networking,data visualization","C003,C001,C004"
+U820,"ethical hacking,programming,augmented reality,quantum computing",C001
+U821,"game development,natural language processing,IoT,databases,quantum computing","C001,C005,C004"
+U822,"cybersecurity,web development,virtual reality","C002,C003"
+U823,"ethical hacking,game development","C002,C001,C003"
+U824,"data science,algorithms,data visualization,augmented reality,computer vision","C003,C005"
+U825,"robotics,networking,AI","C003,C002"
+U826,data science,"C001,C004"
+U827,mobile development,"C005,C002,C004"
+U828,"IoT,game development,data visualization,networking,ethical hacking","C003,C005"
+U829,"game development,databases,data visualization",C001
+U830,"data science,databases","C004,C001"
+U831,"cloud computing,databases,quantum computing","C001,C003,C005"
+U832,"virtual reality,natural language processing,cloud computing","C001,C002"
+U833,"algorithms,blockchain,virtual reality,quantum computing","C004,C003,C001"
+U834,"networking,natural language processing,quantum computing,mobile development","C002,C005,C004"
+U835,"IoT,quantum computing","C004,C001,C003"
+U836,databases,C001
+U837,"mobile development,robotics,cloud computing,blockchain,algorithms","C005,C004"
+U838,"computer vision,IoT,networking","C002,C005"
+U839,"virtual reality,databases,networking",C003
+U840,"ethical hacking,mobile development","C005,C002"
+U841,"blockchain,algorithms,virtual reality,web development,augmented reality","C005,C004,C001"
+U842,"programming,mobile development,blockchain,AI","C004,C001"
+U843,"natural language processing,networking,game development",C003
+U844,networking,C004
+U845,"virtual reality,computer vision,AI,programming","C004,C001,C002"
+U846,"augmented reality,virtual reality,IoT",C001
+U847,"cybersecurity,quantum computing,data visualization","C004,C005,C001"
+U848,AI,C001
+U849,"cybersecurity,ethical hacking,data science,databases","C003,C002"
+U850,"data visualization,ethical hacking,computer vision,networking,mobile development","C005,C002,C001"
+U851,"AI,data science,computer vision,cloud computing,web development","C005,C001,C004"
+U852,"computer vision,ethical hacking,algorithms,blockchain,programming","C005,C004,C003"
+U853,"augmented reality,web development,robotics","C001,C003"
+U854,networking,"C001,C003,C005"
+U855,virtual reality,C005
+U856,"programming,AI,quantum computing,game development,data science",C002
+U857,"data visualization,virtual reality,game development,robotics,cybersecurity","C004,C005,C002"
+U858,"virtual reality,game development",C003
+U859,"mobile development,data visualization,algorithms,blockchain","C002,C001"
+U860,"networking,blockchain,ethical hacking,programming,databases","C004,C002"
+U861,"programming,ethical hacking","C001,C003"
+U862,"augmented reality,programming,quantum computing",C001
+U863,"computer vision,IoT","C003,C004,C002"
+U864,"cybersecurity,virtual reality,networking","C003,C004"
+U865,"programming,data visualization",C004
+U866,"virtual reality,robotics,cloud computing,cybersecurity,AI",C001
+U867,"algorithms,quantum computing,augmented reality,IoT,game development","C004,C003"
+U868,"cloud computing,computer vision,augmented reality","C002,C004"
+U869,virtual reality,C001
+U870,"networking,databases,quantum computing","C001,C002"
+U871,"game development,networking,augmented reality,cybersecurity","C004,C002"
+U872,"mobile development,quantum computing,augmented reality,algorithms,AI","C003,C005,C002"
+U873,"quantum computing,natural language processing,cloud computing","C002,C003,C005"
+U874,"augmented reality,natural language processing,mobile development,cloud computing,data visualization","C001,C004"
+U875,"natural language processing,AI,virtual reality",C004
+U876,"databases,cybersecurity,blockchain,cloud computing","C002,C005,C003"
+U877,"IoT,networking,databases,cybersecurity","C003,C004,C001"
+U878,"computer vision,databases,cybersecurity",C003
+U879,data science,"C004,C002,C003"
+U880,"IoT,AI,web development,databases,mobile development","C003,C002"
+U881,"blockchain,game development,programming","C001,C003"
+U882,virtual reality,C001
+U883,"natural language processing,data science",C005
+U884,"natural language processing,blockchain","C001,C005"
+U885,ethical hacking,"C001,C002"
+U886,"networking,IoT,programming,mobile development,web development","C004,C002"
+U887,"augmented reality,AI,virtual reality,data science",C003
+U888,programming,"C003,C005,C004"
+U889,"natural language processing,databases,algorithms",C001
+U890,"robotics,data visualization,IoT,virtual reality","C005,C003,C004"
+U891,"mobile development,cybersecurity","C005,C004,C002"
+U892,"programming,cloud computing",C005
+U893,game development,"C003,C005,C002"
+U894,"IoT,augmented reality,data science,computer vision,data visualization","C005,C004"
+U895,"cloud computing,augmented reality,algorithms,computer vision,networking",C002
+U896,"programming,web development,data visualization,cloud computing","C001,C004"
+U897,data visualization,"C001,C005"
+U898,"data visualization,cloud computing,blockchain,natural language processing","C001,C004,C002"
+U899,"programming,cloud computing,cybersecurity,databases,web development","C004,C001,C003"
+U900,"databases,cloud computing,networking,mobile development,programming","C003,C004"
+U901,"data visualization,virtual reality,computer vision","C003,C005,C002"
+U902,"data visualization,ethical hacking","C003,C005,C002"
+U903,"AI,algorithms,computer vision,mobile development,data visualization","C002,C004,C005"
+U904,"computer vision,AI,networking","C003,C005"
+U905,"data science,mobile development,game development,ethical hacking",C005
+U906,"cybersecurity,web development",C002
+U907,AI,C001
+U908,"algorithms,data science,natural language processing,mobile development","C005,C003"
+U909,"data visualization,IoT","C002,C005"
+U910,cloud computing,C003
+U911,"computer vision,game development,mobile development,blockchain,IoT","C004,C005"
+U912,"data visualization,databases,programming,IoT","C001,C003,C005"
+U913,"data visualization,quantum computing",C001
+U914,"programming,robotics,game development,web development","C004,C002,C003"
+U915,"blockchain,mobile development,robotics","C004,C002,C003"
+U916,algorithms,C002
+U917,"programming,cloud computing,algorithms,IoT",C004
+U918,"blockchain,AI,data visualization","C004,C002"
+U919,"blockchain,algorithms,ethical hacking,data visualization",C003
+U920,"quantum computing,computer vision,cybersecurity","C001,C005"
+U921,"quantum computing,blockchain,game development,programming",C005
+U922,"robotics,natural language processing,algorithms,ethical hacking,computer vision","C001,C005,C004"
+U923,"data visualization,IoT,computer vision,programming",C003
+U924,"cybersecurity,virtual reality,networking,programming,databases","C004,C005"
+U925,"cybersecurity,robotics,databases,game development",C004
+U926,"networking,natural language processing","C005,C004,C001"
+U927,"networking,databases,programming,web development","C004,C005"
+U928,cloud computing,C004
+U929,"virtual reality,algorithms",C003
+U930,"AI,cybersecurity,augmented reality","C002,C003"
+U931,"ethical hacking,data science,algorithms,virtual reality","C003,C002,C004"
+U932,blockchain,C005
+U933,"augmented reality,robotics,computer vision,natural language processing","C005,C002"
+U934,"cybersecurity,virtual reality",C002
+U935,AI,"C004,C005,C002"
+U936,"game development,computer vision,augmented reality","C005,C002,C001"
+U937,"algorithms,cybersecurity,blockchain","C002,C001"
+U938,"mobile development,IoT,robotics,cloud computing",C004
+U939,"programming,cybersecurity,mobile development,robotics","C001,C003,C004"
+U940,blockchain,"C004,C001"
+U941,"IoT,databases","C001,C004"
+U942,"AI,programming","C002,C004"
+U943,"programming,game development,quantum computing,web development","C001,C005"
+U944,data visualization,"C001,C003,C002"
+U945,"algorithms,natural language processing,networking,mobile development,virtual reality",C003
+U946,"natural language processing,quantum computing,game development,ethical hacking,virtual reality",C003
+U947,"natural language processing,algorithms,computer vision,augmented reality",C005
+U948,"ethical hacking,data visualization,game development,cybersecurity,robotics",C002
+U949,web development,C003
+U950,"IoT,algorithms,databases,robotics","C004,C002"
+U951,"AI,databases,programming,mobile development,algorithms","C004,C002"
+U952,"networking,game development,quantum computing,AI,ethical hacking","C003,C002,C005"
+U953,"networking,mobile development,ethical hacking,cloud computing",C005
+U954,ethical hacking,"C004,C002,C003"
+U955,"IoT,quantum computing,ethical hacking,cloud computing,mobile development","C005,C002,C003"
+U956,"cloud computing,game development",C002
+U957,"game development,data science","C004,C001,C003"
+U958,"blockchain,quantum computing,databases,data visualization","C003,C002,C004"
+U959,blockchain,"C002,C003"
+U960,"ethical hacking,robotics,quantum computing",C002
+U961,"natural language processing,blockchain,web development,ethical hacking,quantum computing","C004,C002"
+U962,"augmented reality,programming,AI,ethical hacking,IoT","C001,C003,C004"
+U963,virtual reality,"C003,C001,C004"
+U964,"databases,cybersecurity,programming",C005
+U965,"virtual reality,IoT,robotics","C003,C005,C002"
+U966,"blockchain,networking,AI,virtual reality","C004,C001"
+U967,"algorithms,web development","C004,C001"
+U968,"data visualization,game development,AI,natural language processing,cloud computing",C003
+U969,ethical hacking,"C005,C002,C004"
+U970,"databases,blockchain","C004,C002,C003"
+U971,"augmented reality,cloud computing,natural language processing,blockchain,mobile development","C003,C001,C002"
+U972,computer vision,C002
+U973,"mobile development,ethical hacking","C002,C005"
+U974,robotics,"C002,C003,C004"
+U975,augmented reality,"C003,C002,C001"
+U976,"databases,game development,AI","C001,C003"
+U977,"computer vision,mobile development,ethical hacking","C005,C001,C004"
+U978,"augmented reality,robotics,web development,virtual reality,ethical hacking",C004
+U979,"IoT,computer vision,quantum computing,natural language processing,data science","C005,C003"
+U980,"networking,programming,cloud computing,quantum computing,mobile development","C004,C005"
+U981,"natural language processing,algorithms,game development","C002,C001,C004"
+U982,"cloud computing,networking,AI",C003
+U983,"networking,data science,blockchain",C005
+U984,"data visualization,algorithms,game development,cybersecurity,natural language processing",C001
+U985,"data visualization,blockchain",C003
+U986,"data science,databases","C001,C004,C003"
+U987,"algorithms,databases,IoT,blockchain,mobile development","C001,C003,C002"
+U988,"algorithms,networking,game development,quantum computing",C004
+U989,"networking,blockchain,robotics,computer vision","C004,C001,C002"
+U990,"natural language processing,mobile development,IoT,blockchain","C004,C002,C005"
+U991,"game development,ethical hacking,computer vision,networking","C002,C005"
+U992,"robotics,cloud computing,blockchain,data science,cybersecurity","C001,C004"
+U993,quantum computing,C004
+U994,augmented reality,"C004,C001"
+U995,"cloud computing,programming,AI","C004,C003,C002"
+U996,"computer vision,data visualization",C002
+U997,"quantum computing,blockchain,programming,cybersecurity","C005,C004,C001"
+U998,"IoT,cybersecurity,web development,robotics,networking","C004,C003,C002"
+U999,"databases,networking,computer vision,augmented reality","C005,C003"
+U1000,blockchain,C003
