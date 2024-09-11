@@ -72,7 +72,6 @@ class CourseRecommendationApp:
         
         ttk.Label(self.master, text="Select a user:").grid(row=0, column=0, padx=5, pady=5, sticky="w")
         self.user_var = tk.StringVar()
-        accf = 95.87
         self.user_dropdown = ttk.Combobox(self.master, textvariable=self.user_var, values=self.user_df['user_id'].tolist())
         self.user_dropdown.grid(row=0, column=1, padx=5, pady=5, sticky="we")
         self.user_dropdown.bind("<<ComboboxSelected>>", self.on_user_select)
@@ -89,7 +88,6 @@ class CourseRecommendationApp:
         self.courses_label.grid(row=1, column=0, padx=5, pady=2, sticky="w")
         self.courses_value = ttk.Label(self.info_frame, text="")
         self.courses_value.grid(row=1, column=1, padx=5, pady=2, sticky="w")
-        print("Accuracy: ", accf)
         self.rec_frame = ttk.LabelFrame(self.master, text="Recommended Courses")
         self.rec_frame.grid(row=2, column=0, columnspan=2, padx=5, pady=5, sticky="nsew")
 
